@@ -12,6 +12,7 @@ Rain Guard is a weather forecasting app designed to alert you when it's likely t
 ## Getting Started
 
 1. Obtain an API key from [OpenWeatherMap](https://openweathermap.org/api). This will require signing up for a free account.
+   After signing up, naviagte to your profile and [generate](https://home.openweathermap.org/api_keys) a new API key
 
 2. Sign up for a [Twilio](https://www.twilio.com/) account to get your Account SID, Auth Token, and to verify your real phone number.
 
