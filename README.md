@@ -24,7 +24,6 @@ Rain Guard is a weather forecasting app designed to alert you when it's likely t
    - To verify your real phone number, navigate to the "Verified CallER IDs" section on your Dashboard. Add your real phone number to the list of verified numbers.
    - ![Twilio](https://github.com/GameDevMitchell/Rain-Guard/assets/146736445/7cc29f89-2f5a-42c0-91b4-0f0113bb1dc0)
 
-
 3. Update the `api_key`, `account_sid`, `auth_token`, `from_`, and `to` fields in the `main.py` file with the corresponding values you obtained from steps 1 and 2.
 
 4. If you want to set your own location for weather updates, update the `MY_LAT` and `MY_LONG` variables in the `main.py` file with your desired latitude and longitude.
@@ -37,6 +36,6 @@ Rain Guard is a weather forecasting app designed to alert you when it's likely t
 
 ```sh
 
-pip install requests twilio vonage
+pip install requests twilio
 
 ```
