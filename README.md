@@ -49,3 +49,4 @@ python main.py
 ```
 
 4. If rain is predicted, you'll receive an SMS alert on the phone number you specified in the to field.
+![rain-alert](https://github.com/GameDevMitchell/Rain-Guard/assets/146736445/c2efb0ae-620a-4eb7-8782-f6753c9f385a)
