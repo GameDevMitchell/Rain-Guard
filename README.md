@@ -48,4 +48,4 @@ python main.py
 
 ```
 
-    If rain is predicted, you'll receive an SMS alert on the phone number you specified in the to field.
+4. If rain is predicted, you'll receive an SMS alert on the phone number you specified in the to field.
