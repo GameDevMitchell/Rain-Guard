@@ -22,6 +22,8 @@ Rain Guard is a weather forecasting app designed to alert you when it's likely t
    - To get your Account SID and Auth Token, log in to your Twilio account and navigate to the Dashboard.
    - To get a Twilio Virtual Number, navigate to the "Active Numbers" section on your Dashboard. If you don't have one yet, you can buy a number by clicking "Buy a Number".
    - To verify your real phone number, navigate to the "Verified CallER IDs" section on your Dashboard. Add your real phone number to the list of verified numbers.
+   - ![Twilio](https://github.com/GameDevMitchell/Rain-Guard/assets/146736445/7cc29f89-2f5a-42c0-91b4-0f0113bb1dc0)
+
 
 3. Update the `api_key`, `account_sid`, `auth_token`, `from_`, and `to` fields in the `main.py` file with the corresponding values you obtained from steps 1 and 2.
 
