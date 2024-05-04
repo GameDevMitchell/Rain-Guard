@@ -39,3 +39,13 @@ Rain Guard is a weather forecasting app designed to alert you when it's likely t
 pip install requests twilio
 
 ```
+
+3. Run the main.py script to start monitoring the weather:
+
+```Sh
+
+python main.py
+
+```
+
+If rain is predicted, you'll receive an SMS alert on the phone number you specified in the to field.
